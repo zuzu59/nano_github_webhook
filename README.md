@@ -25,7 +25,11 @@ Démarrer dans une console sur sa machine<br>
 Démarrer dans une deuxième console sur sa machine<br>
 **./tremplin_start.sh**<br><br>
 
-Après, on peut modifier le README.md de son dépôt pour voir que l'appli sur son serveur est bien tenu à jour automatiquement
+Après, il faudra créer un webhook sur son dépôt avec un truc du style:<br><br>
+
+**http://55a6e2ca.ngrok.io/cgi-bin/t1.sh**<br><br>
+
+Pour tester alors, on peut modifier le README.md de son dépôt pour voir que l'appli sur son serveur est bien tenu à jour automatiquement
 
 
 
