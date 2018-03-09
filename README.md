@@ -16,14 +16,14 @@ https://ngrok.com/
 
 ## Installation
 Il suffit simplement de faire:<br>
-./start.sh
+**./start.sh**
 
 ## Utilisation
 Démarrer dans une console sur sa machine<br>
-./httpd_start.sh<br><br>
+**./httpd_start.sh**<br><br>
 
 Démarrer dans une deuxième console sur sa machine<br>
-./tremplin_start.sh<br><br>
+**./tremplin_start.sh**<br><br>
 
 Après, on peut modifier le README.md de son dépôt pour voir que l'appli sur son serveur est bien tenu à jour automatiquement
 
