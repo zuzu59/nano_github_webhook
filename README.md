@@ -20,13 +20,13 @@ Il suffit simplement de faire:<br>
 
 ## Utilisation
 Démarrer dans une console sur sa machine<br>
-**./httpd_start.sh**<br><br>
+**./httpd_start.sh**
 
 Démarrer dans une deuxième console sur sa machine<br>
-**./tremplin_start.sh**<br><br>
+**./tremplin_start.sh**
 
 Après, il faudra créer un webhook sur son dépôt avec un truc du style:<br>
-**http://55a6e2ca.ngrok.io/cgi-bin/t1.sh**<br><br>
+**http://55a6e2ca.ngrok.io/cgi-bin/t1.sh**
 
 Pour tester alors, on peut modifier le README.md de son dépôt pour voir que l'appli sur son serveur est bien tenu à jour automatiquement
 
